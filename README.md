@@ -32,8 +32,8 @@ Faces detected in real time using a webcam feed with green rectangles drawn arou
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AartiDashore/ComputerVisionFaceDetection.git
+cd ComputerVisionFaceDetection
 ```
 
 2. Install dependencies:
