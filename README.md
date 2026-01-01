@@ -56,6 +56,10 @@ Run the script:
 python face_detection.py
 ```
 
+## Output
+[<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8f71a4c1-6667-4782-9c2e-41e52d24e4a9" />](https://github.com/AartiDashore/ComputerVisionFaceDetection/blob/main/output/2.png)
+
+
 ## Controls
 
 * Press **`q`** to quit
