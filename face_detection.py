@@ -43,10 +43,11 @@ while True:
     # Press 'q' to quit
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
-    # ✅ Detect window close button
+    # Detect window close button
     if cv2.getWindowProperty(WINDOW_NAME, cv2.WND_PROP_VISIBLE) < 1:
         break
 
 # Release resources
 cap.release()
 cv2.destroyAllWindows()
+
