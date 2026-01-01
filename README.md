@@ -1,6 +1,5 @@
 # Computer Vision Face Detection
-Real-Time Face Detection (OpenCV)
-A simple real-time face detection project using **Python** and **OpenCV**. The program accesses your webcam, detects faces using a Haar Cascade classifier, and draws bounding boxes around them.
+Real-Time Face Detection (OpenCV): This is a simple real-time face detection project using **Python** and **OpenCV**. The program accesses your webcam, detects faces using a Haar Cascade classifier, and draws bounding boxes around them.
 
 ## Demo
 
